@@ -1,5 +1,6 @@
 {
-	"name": "Test",
+	"name": "brysalazar12/test",
+	"modulename": "Test",
 	"type": "laravel-package",
     "require": {
         "composer/installers": "~1.0"
