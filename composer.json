@@ -1,0 +1,7 @@
+{
+	"name": "Test",
+	"type": "laravel-package",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
